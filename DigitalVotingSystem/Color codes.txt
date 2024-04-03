@@ -1,0 +1,9 @@
+"\033[30m" BLACK
+cout << "\033[31m"; RED
+cout << "\033[32m"; GREEN
+"\033[33m" YELLOW
+cout << "\033[34m"; BLUE
+"\033[35m" MAGENTA
+cout << "\033[36m"; CYAN
+cout << "\033[37m"; WHITE
+cout << "\033[90m" GRAY
